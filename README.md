@@ -43,7 +43,7 @@
 <hr>
 
 <h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">GIU License</a>. You are free to use, modify, and distribute the code as per the terms of the license.</p>
+<p>This project is licensed under the <a href="LICENSE">GNU License</a>. You are free to use, modify, and distribute the code as per the terms of the license.</p>
 
 <hr>
 
